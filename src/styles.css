@@ -9,8 +9,8 @@ section {
 
 .hero {
   background-color: rgb(4, 99, 128);
-  height: 100vh;
   color: white;
+  height: 100vh;
   font-size: 40px;
 }
 
@@ -200,7 +200,7 @@ a {
     display: block;
     border: 0;
     background-color: transparent;
-    color: white;
+    color: #e83d95;
     font-size: 30px;
     margin: 20px;
     align-self: flex-end;
